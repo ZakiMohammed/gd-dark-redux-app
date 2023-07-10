@@ -1,4 +1,4 @@
-# 👋 Dark Redux - React Redux Getting Started
+# 🤍 Dark Redux - React Redux Getting Started
 
 GD App Architecture Communities Call - (React Redux Toolkit).
 
